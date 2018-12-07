@@ -8,7 +8,7 @@
 #include <sys/types.h>
 #include <sys/time.h>
 
-// Hi I'm Here!!
+// Hi again!!
 // Includes header of my library
 #include "mylib.h"
 
